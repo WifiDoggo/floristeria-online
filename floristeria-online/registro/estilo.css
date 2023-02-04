@@ -1,0 +1,9 @@
+body {
+background-image: linear-gradient(rgba(27, 27, 27, 0.5), rgba(27, 27, 27, 0.5)),url(bglogin.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.navbar{
+    background: white;
+}
